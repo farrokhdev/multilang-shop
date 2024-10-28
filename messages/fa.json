@@ -1,0 +1,11 @@
+{
+  "header": {
+    "nav": {
+      "homepage": "خانه",
+      "shop": "shop",
+      "deals": "deals",
+      "about": "about",
+      "contact": "contact"
+    }
+  }
+}
